@@ -1,8 +1,8 @@
-name: User Story
-about: Create a user story for the product backlog
-title: ''
-labels: ''
-assignees: ''
+name: User Story `<br>`
+about: Create a user story for the product backlog `<br>`
+title: '' `<br>`
+labels: '' `<br>`
+assignees: '' `<br>`
 
 
 ---
