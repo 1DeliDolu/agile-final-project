@@ -1,8 +1,17 @@
 name: User Story
+
+
 about: Create a user story for the product backlog
+
+
 title: ''
+
+
 labels: ''
-assignees: '' 
+
+
+assignees: ''
+
 
 
 ---
